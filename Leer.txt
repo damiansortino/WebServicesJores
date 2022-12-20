@@ -1,0 +1,1 @@
+A la aplicación de sercivios se le debe colocar el alias "AlmaLibre" para que la app la reconozca
