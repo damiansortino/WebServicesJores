@@ -1,8 +1,4 @@
 ﻿using Servicios.Models;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
 
 namespace Servicios.Clases
 {
@@ -30,7 +26,7 @@ namespace Servicios.Clases
             color = j.color;
             marca = j.marca;
             codigo = j.codigo;
-            precio = j.precioUnitario + (((j.precioUnitario * j.porcentajeRentabilidad))/100);
+            precio = j.precioUnitario + (((j.precioUnitario * j.porcentajeRentabilidad)) / 100);
         }
 
         public prod()

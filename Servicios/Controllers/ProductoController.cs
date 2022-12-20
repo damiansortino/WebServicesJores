@@ -1,10 +1,6 @@
 ﻿using Servicios.Clases;
 using Servicios.Models;
-using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Net;
-using System.Net.Http;
 using System.Web.Http;
 
 namespace Servicios.Controllers
@@ -32,10 +28,10 @@ namespace Servicios.Controllers
         public prod Get(int id)
         {
             prod devolver = new prod();
-                      
+
             using (baselaymarEntities db = new baselaymarEntities())
             {
-                
+
                 foreach (var item in db.producto)
                 {
                     if ((item.fechaBaja == null) && (item.codigo.Contains(id.ToString().Trim())))
