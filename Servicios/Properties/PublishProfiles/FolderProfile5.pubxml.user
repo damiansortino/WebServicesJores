@@ -5,6 +5,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <_PublishTargetUrl>C:\Users\damia\Desktop\enviar_jores</_PublishTargetUrl>
+    <History>True|2022-12-23T22:58:02.8791830Z;</History>
   </PropertyGroup>
   <ItemGroup>
     <File Include="Areas/HelpPage/HelpPage.css">
@@ -269,10 +270,10 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>08/08/2018 09:18:16</publishTime>
     </File>
     <File Include="bin/Servicios.dll">
-      <publishTime>12/20/2022 19:19:51</publishTime>
+      <publishTime>12/23/2022 19:58:01</publishTime>
     </File>
     <File Include="bin/Servicios.pdb">
-      <publishTime>12/20/2022 19:19:51</publishTime>
+      <publishTime>12/23/2022 19:58:01</publishTime>
     </File>
     <File Include="bin/System.Net.Http.Formatting.dll">
       <publishTime>11/28/2018 10:00:36</publishTime>

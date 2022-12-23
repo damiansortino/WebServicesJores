@@ -34,7 +34,7 @@ namespace Servicios.Controllers
 
                 foreach (var item in db.producto)
                 {
-                    if ((item.fechaBaja == null) && (item.codigo.Contains(id.ToString().Trim())))
+                    if ((item.fechaBaja == null) && (int.Parse(item.codigo) == id))
                     {
                         prod nuevo = new prod(item);
                         devolver = nuevo;

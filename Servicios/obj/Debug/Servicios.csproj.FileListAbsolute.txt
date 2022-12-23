@@ -290,7 +290,6 @@ D:\GIT\WebServicesJores\Servicios\bin\es\System.Web.Razor.resources.dll
 D:\GIT\WebServicesJores\Servicios\bin\es\System.Web.WebPages.resources.dll
 D:\GIT\WebServicesJores\Servicios\bin\es\System.Web.WebPages.Deployment.resources.dll
 D:\GIT\WebServicesJores\Servicios\bin\es\System.Web.WebPages.Razor.resources.dll
-D:\GIT\WebServicesJores\Servicios\obj\Debug\Servicios.csproj.AssemblyReference.cache
 D:\GIT\WebServicesJores\Servicios\obj\Debug\Servicios.csproj.CoreCompileInputs.cache
 D:\GIT\WebServicesJores\Servicios\obj\Debug\Servicios.csproj.CopyComplete
 D:\GIT\WebServicesJores\Servicios\obj\Debug\Servicios.dll
